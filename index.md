@@ -1,4 +1,1 @@
----
-title: Welcome to my blog
----
-
+# Going through git hub skills course
